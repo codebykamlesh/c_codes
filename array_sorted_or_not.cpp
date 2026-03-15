@@ -25,5 +25,4 @@ int main() {
     } else {
         cout << "The array is NOT sorted." << endl;
     }
-    return 0;
 }
