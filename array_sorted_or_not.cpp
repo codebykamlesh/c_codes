@@ -16,7 +16,7 @@ int main() {
     cin >> n;
     int arr[n];
     for (int i = 0; i < n; i++) {
-        cout << "Enter " << n + 1<< "th element: ";
+        cout << "Enter " << i + 1<< "th element: ";
         cin >> arr[i];
     }
 
