@@ -7,8 +7,8 @@ int main() {
     cin >> n;
 
     int arr[n];
-    cout << "Enter " << i + 1 << "th elements: ";
     for (int i = 0; i < n; i++) {
+        cout << "Enter " << i + 1 << "th elements: ";
         cin >> arr[i];
     }
     bool hasDuplicate = false;
